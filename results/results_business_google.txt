@@ -1,0 +1,848 @@
+ID: 1
+Source sent:
+The old rule started to seem dated and out of place.
+Target sent:
+旧规则开始似乎已经过时了。
+
+Distance: 9.000000
+the old houses started to seem dated and out of place
+旧房子开始看起来和不合适
+Distance: 8.000000
+the old people started to seem dated and out of place
+老人开始看起来和不合适
+Distance: 3.000000
+the old ones started to seem dated and out of place
+旧的开始似乎已经过时了
+
+ID: 2
+Source sent:
+Imagine if you're a very large retailer that has a large number of locations, said Martin Fleming, chief economist at IBM.
+Target sent:
+IMM的首席经济学家Martin Fleming表示，如果您是一个拥有大量地点的大量零售商。
+
+Distance: 17.000000
+imagine if you are a very active retailer that has a large number of locations, said martin fleming, chief economist at ibm
+IMM的首席经济学家Martin Fleming表示，如果您是一个非常有活跃的零售商，那么Martin Fleming表示，IBM的主要经济学家
+Distance: 16.000000
+imagine if you are a very large retailer that has a large number of locations, said martin martin, chief economist at ibm
+想象一下，如果您是IBM的主要经济学家Martin Martin表示，如果您是一个非常大的零售商，那么Martin Martin表示，马丁马丁说
+Distance: 16.000000
+imagine if you are a very large firm that has a large number of locations, said martin fleming, chief economist at ibm
+想象一下，如果您是IBM的主要经济学家Martin Fleming表示，如果您是一家非常大的公司，则Martin Fleming表示，Martin Fleming表示
+
+ID: 3
+Source sent:
+Sewing may find some support for a merger among European regulators who argue the region has too many banks.
+Target sent:
+缝纫可能会找到一些对争论该地区的欧洲监管机构中的合并的支持。
+
+Distance: 15.000000
+sewing may find some support for a merger among european bankers who argue the region has too many banks
+缝纫可能会找到一些支持该地区的欧洲银行家合并的支持太多银行
+Distance: 15.000000
+sewing may find some support for a merger among european regulators who argue the union has too many banks
+缝纫可能会找到一些支持欧洲监管机构的合并，争论联盟有太多银行
+Distance: 14.000000
+sewing may find some support for a merger among european regulators who argue the country has too many banks
+缝纫可能会找到一些支持欧洲监管机构的合并，争论该国的银行太多
+
+ID: 4
+Source sent:
+I really believe that you see a lot of innovation coming from other parts of the world.
+Target sent:
+我真的相信你看到了很多来自世界其他地区的创新。
+
+Distance: 12.000000
+i really believe that you see a sort of innovation coming from other parts of the world
+我真的相信你会看到来自世界其他地方的一种创新
+Distance: 12.000000
+i really believe that you see a type of innovation coming from other parts of the world
+我真的相信你会看到来自世界其他地区的一种创新
+Distance: 12.000000
+i really believe that you see a generation of innovation coming from other parts of the world
+我真的相信你会看到来自世界其他地方的一代创新
+
+ID: 5
+Source sent:
+They left out that the pilots were not trained to handle it.
+Target sent:
+他们遗漏了飞行员没有训练处理它。
+
+Distance: 8.000000
+they left out that the teachers were not trained to handle it
+他们遗漏了教师没有接受过处理它的训练
+Distance: 7.000000
+they left out that the girls were not trained to handle it
+他们遗漏了女孩们没有训练来处理它
+Distance: 6.000000
+they left out that the males were not trained to handle it
+他们遗漏了雄性没有训练以处理它
+
+ID: 6
+Source sent:
+When you're in the company, it ' s very clear that you're changing peoples' minds.
+Target sent:
+当你在公司时，很明显，你正在改变人民的思想。
+
+Distance: 9.000000
+when you are in the picture, it' s very clear that you are changing peoples' minds
+当你在图片中时，很明显你正在改变人们的思想
+Distance: 8.000000
+when you are in the company, it' s very true that you are changing peoples' minds
+当您在公司时，您正在改变人民的思想是非常真实的
+Distance: 8.000000
+when you are in the company, it' s very common that you are changing peoples' minds
+当您在公司时，您正在改变人民的思想是非常普遍的
+
+ID: 7
+Source sent:
+I am very willing to share my point of view.
+Target sent:
+我非常愿意分享我的观点。
+
+Distance: 4.000000
+i am very reluctant to share my point of view
+我非常不愿分享我的观点
+Distance: 4.000000
+i am very able to share my point of view
+我能够分享我的观点
+Distance: 3.000000
+i am very curious to share my point of view
+我很奇怪分享我的观点
+
+ID: 8
+Source sent:
+A lawyer for Elizabeth Holmes declined to comment for this story.
+Target sent:
+伊丽莎白福尔摩斯的律师拒绝评论这个故事。
+
+Distance: 9.000000
+a lawyer for death holmes declined to comment for this story
+死亡律师的律师拒绝评论这个故事
+Distance: 8.000000
+a look for elizabeth holmes declined to comment for this story
+寻找伊丽莎白福尔摩斯拒绝评论这个故事
+Distance: 8.000000
+a lawyer for murder holmes declined to comment for this story
+谋杀福尔摩斯的律师拒绝发表评论这个故事
+
+ID: 9
+Source sent:
+The cool confidence Chan has become known for did not always come easily.
+Target sent:
+凉爽的信心陈已知并不总是很容易。
+
+Distance: 9.000000
+the cool confidence james has become known for did not always come easily
+午餐的酷信心已知，并不总是很容易出现
+Distance: 5.000000
+the cool confidence scott has become known for did not always come easily
+酷信心斯科特已被众所周知，并不总是很容易
+Distance: 4.000000
+the cool confidence martin has become known for did not always come easily
+酷的信心马丁已知并不总是很容易
+
+ID: 10
+Source sent:
+The employee, who has since taken a new job, admits this time off was a luxury most may not have had.
+Target sent:
+从事一项新工作的员工承认，这次休息是奢侈品可能没有拥有的奢侈品。
+
+Distance: 20.000000
+the employee, who has since taken a new job, admits this time off was a decision most may not have had
+从事新工作以来的员工承认这次是最多可能没有的决定
+Distance: 18.000000
+the simon, who has since taken a new job, admits this time off was a luxury most may not have had
+自从采取新工作以来的西蒙，承认这次是奢侈品，最多可能没有
+Distance: 16.000000
+the employee, who has since taken a secondary job, admits this time off was a luxury most may not have had
+自上次工作以来的员工承认这次休息是奢侈品可能没有
+
+ID: 11
+Source sent:
+Other tech companies that also make effective use of economists — like Uber, which has a 30 person team — speak with frank admiration of the apparatus Amazon has built.
+Target sent:
+其他技术公司，也有效地利用经济学家 - 如优步，有30人团队 - 与亚马逊的设备钦佩令人钦佩。
+
+Distance: 18.000000
+other tech companies that also make effective demands of economists — like uber, which has a 30 person team — speak with frank admiration of the apparatus amazon has built
+其他技术公司，也为经济学家提供了有效的需求 - 就像优步一样，拥有30人团队 - 与亚马逊的设备令人钦佩的令人钦佩
+Distance: 18.000000
+other tech companies that also make effective examples of economists — like uber, which has a 30 person team — speak with frank admiration of the apparatus amazon has built
+其他技术公司，也为经济学家的有效示例进行了有效的实例 - 像优步一样，拥有30人的团队 - 与亚马逊的设备钦佩令人钦佩
+Distance: 18.000000
+other tech companies that also make effective casts of economists — like uber, which has a 30 person team — speak with frank admiration of the apparatus amazon has built
+其他技术公司，也使经济学家的有效施放 - 像优步一样，有一个30人的团队 - 与亚马逊的设备钦佩令人钦佩
+
+ID: 12
+Source sent:
+And do not forget about your body language when receiving the compliment.
+Target sent:
+在接受恭维时，不要忘记你的肢体语言。
+
+Distance: 10.000000
+and do not forget about your body injury when receiving the compliment
+并且不要在收到恭维时忘记你的身体伤害
+Distance: 8.000000
+and do not forget about your mouth language when receiving the compliment
+并且在收到恭维时，不要忘记口腔语言
+Distance: 7.000000
+and do not forget about your birth language when receiving the compliment
+在收到恭维时，不要忘记出生语言
+
+ID: 13
+Source sent:
+The investigators were right that the airplane itself was safe.
+Target sent:
+调查人员是安全的，飞机本身是安全的。
+
+Distance: 7.000000
+the others were right that the airplane itself was safe
+其他人是正确的，飞机本身是安全的
+Distance: 6.000000
+the men were right that the airplane itself was safe
+男人正好是飞机本身是安全的
+Distance: 6.000000
+the investigators were satisfied that the airplane itself was safe
+调查人员满足飞机本身是安全的
+
+ID: 14
+Source sent:
+From November 2016 to September 2018, the company was hit with five discrimination lawsuits and charges from civil rights and labor organizations, workers and individuals.
+Target sent:
+从2016年11月到2018年9月，本公司遭到五项歧视诉讼和公民权利和劳工组织，工人和个人的指控。
+
+Distance: 16.000000
+from november 2016 to september 2018, the company was hit with five discrimination lawsuits and charges from civil rights and labor organizations, people and individuals
+2016年11月至2018年9月，该公司被公民和劳工组织，人员和个人击中了五项歧视诉讼和收费
+Distance: 14.000000
+from november 2016 to september 2018, the company was hit with five thousand lawsuits and charges from civil rights and labor organizations, workers and individuals
+从2016年11月到2018年9月，该公司被民权和劳工组织，工人和个人击中了五千名诉讼和收费
+Distance: 12.000000
+from november 2016 to september 2018, the company was hit with five discrimination laws and charges from civil rights and labor organizations, workers and individuals
+2016年11月至2018年9月，该公司被民权和劳工组织，工人和个人的五项歧视法和费用击中
+
+ID: 15
+Source sent:
+Unlike economists in academia or government, the work of Amazon ' s economists is almost entirely secret, and staff are required to sign non disclosure agreements to keep it that way.
+Target sent:
+与学术界或政府的经济学家不同，亚马逊经济学家的工作几乎完全是秘密的，工作人员必须签署不披露协议以保持这种方式。
+
+Distance: 12.000000
+unlike economists in academia or government, the work of mit' s economists is almost entirely secret, and staff are required to sign non disclosure agreements to keep it that way
+与学术界或政府的经济学家不同，麻省理工学院的经济学家的工作几乎完全完全秘密，工作人员需要签署不披露协议，以便保持这种情况
+Distance: 9.000000
+unlike economists in academia or research, the work of amazon' s economists is almost entirely secret, and staff are required to sign non disclosure agreements to keep it that way
+与学术界或研究中的经济学家不同，亚马逊经济学家的工作几乎完全是秘密的，工作人员必须签署不披露协议，以便保持这种方式
+Distance: 9.000000
+unlike economists in academia or government, the work of amazon' s economists is almost entirely classified, and staff are required to sign non disclosure agreements to keep it that way
+与学术界或政府的经济学家不同，亚马逊经济学家的工作几乎完全被分类，工作人员需要签署不披露协议，以便保持这种情况
+
+ID: 16
+Source sent:
+Anxiety over flying on Boeing ' s 737 Max planes reached a fever pitch after the crash in Ethiopia.
+Target sent:
+在埃塞俄比亚的撞车后，在波音的737最大飞机上飞行的焦虑达到了发烧沥青。
+
+Distance: 14.000000
+anxiety over flying on boeing' s 737 freighter planes reached a fever pitch after the crash in ethiopia
+在埃塞俄比亚坠毁后，波音737货运飞行飞行的焦虑达到了发烧沥青
+Distance: 13.000000
+anxiety over flying on airbus' s 737 max planes reached a fever pitch after the crash in ethiopia
+在埃塞俄比亚坠毁后，飞行空中客车737最大飞机飞行的焦虑
+Distance: 12.000000
+anxiety over flying on boeing' s 737 max planes reached a fever pitch after the fighting in ethiopia
+在埃塞俄比亚打架后，波音737最大飞机对飞行的焦虑达到了发烧沥青
+
+ID: 17
+Source sent:
+Daryl Fairweather joined the company soon after receiving her PhD in economics from the University of Chicago in 2014.
+Target sent:
+2014年在芝加哥大学获得博士学位后，达里尔·菲尔威瑟很快就加入了公司。
+
+Distance: 14.000000
+daryl hannah joined the company soon after receiving her phd in economics from the university of chicago in 2014
+在2014年在芝加哥大学的经济学博士收到她的博士后，Daryl Hannah很快就加入了公司
+Distance: 14.000000
+daryl heather joined the company soon after receiving her phd in economics from the university of chicago in 2014
+在2014年在芝加哥大学的经济学博士收到她的博士后，Daryl Heather很快就加入了公司
+Distance: 11.000000
+daryl sarah joined the company soon after receiving her phd in economics from the university of chicago in 2014
+在2014年在芝加哥大学的经济学中获得博士学位，达里尔莎拉很快就加入了公司
+
+ID: 18
+Source sent:
+They're doing something completely different.
+Target sent:
+他们正在做一些完全不同的事情。
+
+Distance: 7.000000
+they are doing everything completely different
+他们正在做一切完全不同
+Distance: 3.000000
+they are doing anything completely different
+他们正在做任何完全不同的事情
+Distance: 2.000000
+they are doing things completely different
+他们正在做完全不同的事情
+
+ID: 19
+Source sent:
+The other big draw: Even though the work Amazon ' s economists do may never see the light of day, within the company, it influences decisions that affect millions of people.
+Target sent:
+另一个大幅度：尽管亚马逊的经济学家所做的工作可能永远不会看到公司内部，但它会影响影响数百万人的决策。
+
+Distance: 17.000000
+the other big draw: even though the work amazon' s economists do may never see the light of day, within the research, it influences decisions that affect millions of people
+另一个大的绘图：即使工作亚马逊的经济学家在研究中也可能看不到一天，它会影响影响数百万人的决定
+Distance: 15.000000
+the other big draw: even though the work amazon' s economists do may never see the sort of day, within the company, it influences decisions that affect millions of people
+另一个大幅度：亚马逊经济学家的工作可能永远不会看到公司内部的一天，它会影响影响数百万人的决定
+Distance: 14.000000
+the other big draw: even though the work amazon' s economists do may never see the break of day, within the company, it influences decisions that affect millions of people
+另一个大的抽奖：即使工作亚马逊的经济学家也可能看不到公司内部的休息日，它会影响影响数百万人的决定
+
+ID: 20
+Source sent:
+It is believed in the field that Amazon employs more PhD economists than any other tech company.
+Target sent:
+据信，亚马逊比任何其他科技公司雇用更多博士学位经济学家。
+
+Distance: 11.000000
+it is believed in the press that amazon employs more phd economists than any other tech company
+它据信亚马逊雇用更多博士经济学家，而不是任何其他科技公司
+Distance: 11.000000
+it is believed in the field that amazon employs more phd economists than any large tech company
+据信，亚马逊雇用更多博士经济学家的领域，而不是任何大型技术公司
+Distance: 10.000000
+it is believed in the world that amazon employs more phd economists than any other tech company
+它据信，亚马逊雇用更多博士经济学家，而不是任何其他科技公司
+
+ID: 21
+Source sent:
+They are in charge of their routines, and they can find all the information they need from their friends or from other women in the world and online.
+Target sent:
+他们负责他们的日常生活，他们可以找到他们的朋友或世界其他女性所需的所有信息和在线。
+
+Distance: 17.000000
+they are in charge of their routines, and they can find all the information they need from their friends or from other players in the world and online
+他们负责他们的例程，他们可以找到他们朋友的所有信息，也可以从世界上的其他玩家和在线找到所有信息
+Distance: 16.000000
+they are in charge of their routines, and they can find all the information they need from their friends or from other women in the city and online
+他们负责他们的例程，他们可以找到他们所需要的所有信息，也可以从城市和在线的其他女性找到所需的所有信息
+Distance: 13.000000
+they are in charge of their routines, and they can find all the girls they need from their friends or from other women in the world and online
+他们负责他们的例程，他们可以找到他们所需要的所有女孩，也可以从世界上的其他女性和在线找到所有的女孩
+
+ID: 22
+Source sent:
+Feedback, both negative and positive, should be a frequent occurrence in the workplace.
+Target sent:
+反馈，负面和积极，应该是工作场所的频繁发生。
+
+Distance: 10.000000
+feedback, both good and positive, should be a frequent occurrence in the workplace
+反馈，既好和积极，应该是工作场所的经常发生
+Distance: 9.000000
+feedback, both negative and positive, should be a new occurrence in the workplace
+反馈，负面和积极，应该是工作场所的新发生
+Distance: 9.000000
+feedback, both negative and positive, should be a common occurrence in the workplace
+反馈，负面和积极，应该是工作场所的常见发生
+
+ID: 23
+Source sent:
+The former employee is now looking for new career opportunities outside their field of expertise after hitting a road block in the job search.
+Target sent:
+前员工现在正在寻找在求职中击中道路块之外的专业领域之外的新职业机会。
+
+Distance: 10.000000
+the former employee is now looking for new career opportunities outside their fields of expertise after hitting a road block in the job search
+前员工现在正在寻找在求职路上的专业领域之外的新职业机会
+Distance: 10.000000
+the former employee is now looking for new business opportunities outside their field of expertise after hitting a road block in the job search
+前员工现在正在寻找在求职道路块之外的专业领域之外的新商机
+Distance: 10.000000
+the former employee is now looking for new career opportunities outside their field of choice after hitting a road block in the job search
+前员工现在正在寻找在求职道路块之外的首选外部的新职业机会
+
+ID: 24
+Source sent:
+A merger is one potential way forward; other options include a complete retreat from Wall Street (more likely) or major new investment in the investment bank (less likely).
+Target sent:
+合并是一个潜在的前进方式;其他选择包括从华尔街（更有可能）的完全撤退或投资银行的主要新投资（不太可能）。
+
+Distance: 16.000000
+a merger is one potential way forward; other options include a complete event from wall street (more likely) or major new investment in the investment bank (less likely )
+合并是一个潜在的前进方式;其他选项包括来自华尔街（更可能）的完整活动或投资银行的主要新投资（不太可能）
+Distance: 14.000000
+a merger is one potential way forward; other options include a financial retreat from wall street (more likely) or major new investment in the investment bank (less likely )
+合并是一个潜在的前进方式;其他选择包括来自华尔街（更可能）的金融撤退或投资银行的主要新投资（不太可能）
+Distance: 14.000000
+a merger is one potential way forward; other options include a complete retreat from bank street (more likely) or major new investment in the investment bank (less likely )
+合并是一个潜在的前进方式;其他选择包括银行街（更可能）的完整撤退或投资银行的主要新投资（不太可能）
+
+ID: 25
+Source sent:
+And this would take us closer to our goal of a truly European banking sector.
+Target sent:
+这将使我们更接近我们真正欧洲银行业的目标。
+
+Distance: 12.000000
+and this would take us closer to our goal of a truly independent banking sector
+这将使我们更接近我们真正独立的银行业的目标
+Distance: 9.000000
+and this would take us closer to our goal of a unified european banking sector
+这将使我们更接近我们统一欧洲银行业的目标
+Distance: 9.000000
+and this would take us closer to our goal of a truly free banking sector
+这将使我们更接近我们真正自由银行业的目标
+
+ID: 26
+Source sent:
+I think a lot of us were in denial, said another former employee who continued working at the company after the Wall Street Journal story.
+Target sent:
+我认为我们很多人都否认，另一名员工在华尔街日记期间继续在公司继续工作。
+
+Distance: 12.000000
+i think a third of us were in denial, said another former employee who continued working at the company after the wall street journal story
+我认为我们中的三分之一是否认的，另一名前雇员在华尔街日记期间继续在公司继续工作
+Distance: 10.000000
+i think a lot of us were in denial, said another former employee who continued working at the church after the wall street journal story
+我觉得我们很多人都拒绝了，另一名前雇员在华尔街日记期间继续在教堂工作
+Distance: 10.000000
+i think a lot of us were in denial, said another american employee who continued working at the company after the wall street journal story
+我认为我们很多人都拒绝了，他在华尔街日记期间继续在公司继续工作后继续工作
+
+ID: 27
+Source sent:
+The key to accepting praise at work is to show you received it and appreciate it.
+Target sent:
+接受工作中赞誉的关键是展示你收到了它并欣赏它。
+
+Distance: 11.000000
+the key to accepting anything at work is to show you received it and appreciate it
+接受工作中的任何东西的关键是展示你收到了它并欣赏它
+Distance: 11.000000
+the key to accepting praise at home is to show you received it and appreciate it
+在家接受赞誉的关键是告诉你收到它并欣赏它
+Distance: 11.000000
+the key to accepting praise at random is to show you received it and appreciate it
+随意接受赞誉的关键是告诉你收到它并欣赏它
+
+ID: 28
+Source sent:
+Because if you're writing an economics paper, you're studying things like the impact of the minimum wage, often without the luxury of running experiments.
+Target sent:
+因为如果您正在撰写经济学纸，您正在研究最低工资的影响，通常没有运行实验的奢侈品。
+
+Distance: 10.000000
+because if you are writing an economics paper, you are studying things like the price of the minimum wage, often without the luxury of running experiments
+因为如果您正在编写经济学纸，您正在研究最低工资价格，通常没有运行实验的奢侈品
+Distance: 9.000000
+because if you are writing an open paper, you are studying things like the impact of the minimum wage, often without the luxury of running experiments
+因为如果你正在写一张张纸，你就是在没有运行实验的奢侈品的情况下研究最低工资的影响
+Distance: 9.000000
+because if you are writing an economics paper, you are studying things like the impact of the minimum wage, often without the help of running experiments
+因为如果您正在编写经济学纸张，您正在研究最低工资的影响，通常在没有运行实验的帮助下
+
+ID: 29
+Source sent:
+Economists can come close to an answer, enabling the company to make better decisions about which benefits to include and which to scrap.
+Target sent:
+经济学家可以接近答案，使公司能够做出更好的决定，其中包括哪些福利和废料。
+
+Distance: 17.000000
+economists can come close to an answer, enabling the company to make important decisions about which benefits to include and which to scrap
+经济学家可以接近答案，使公司能够对其中包括和废料的福利的重要决定
+Distance: 15.000000
+economists can come close to an answer, enabling the company to make rational decisions about which benefits to include and which to scrap
+经济学家可以接近答案，使公司能够对哪些福利的理性决定，包括哪些福利和废料
+Distance: 14.000000
+economists can come close to an answer, enabling the company to make personal decisions about which benefits to include and which to scrap
+经济学家可以接近答案，使公司能够为哪些福利的效益进行个人决定，并将其废除
+
+ID: 30
+Source sent:
+The duration was reflected in the size of the fine, she added.
+Target sent:
+她补充说，持续时间被反映在罚款的大小。
+
+Distance: 12.000000
+the something was reflected in the size of the fine, she added
+她补充说，某些东西反映在罚款的大小
+Distance: 12.000000
+the duration was reflected in the size of the song, she added
+她补充说，持续时间反映在歌曲的大小中
+Distance: 11.000000
+the duration was reflected in the size of the group, she added
+她补充说，持续时间反映在该组的大小
+
+ID: 31
+Source sent:
+But any combination would be opposed by the powerful labor unions and closely examined by EU regulators who may prefer a cross border merger that could strengthen Europe ' s financial system.
+Target sent:
+但任何组合都将由强大的工会反对，并由欧盟监管机构密切研究，他们可能更喜欢跨境合并，可以加强欧洲金融体系。
+
+Distance: 11.000000
+but any combination would be opposed by the powerful labor unions and closely examined by government regulators who may prefer a cross border merger that could strengthen europe' s financial system
+但任何组合都将由强大的工会反对，并由可能更喜欢跨境合并的政府监管机构密切研究，这些监管机构可以加强欧洲金融体系
+Distance: 11.000000
+but any combination would be opposed by the powerful labor unions and closely examined by state regulators who may prefer a cross border merger that could strengthen europe' s financial system
+但任何组合都将由强大的工会反对，并由可能更喜欢跨境合并的国家监管机构密切研究，这些监管机构可以加强欧洲金融体系
+Distance: 11.000000
+but any combination would be opposed by the powerful labor unions and closely examined by compliance regulators who may prefer a cross border merger that could strengthen europe' s financial system
+但任何组合都将由强大的工会反对，并由可能更喜欢跨境合并的合规监管机构密切研究，这些监管机构可以加强欧洲金融体系
+
+ID: 32
+Source sent:
+It can give employee ' s clarity, increase productivity and morale and help to avoid any tension or confusion.
+Target sent:
+它可以给员工的清晰度，提高生产力和士气，并有助于避免任何紧张或混乱。
+
+Distance: 9.000000
+it can give coach' s clarity, increase productivity and morale and help to avoid any tension or confusion
+它可以给教练的清晰度，提高生产力和士气，并有助于避免任何紧张或混乱
+Distance: 8.000000
+it can give employee' s clarity, increase productivity and morale and help to avoid any fear or confusion
+它可以给员工的清晰度，提高生产力和士气，帮助避免任何恐惧或混乱
+Distance: 8.000000
+it can give employee' s clarity, increase productivity and morale and help to avoid any face or confusion
+它可以给员工的清晰度，提高生产力和士气，帮助避免任何面孔或混乱
+
+ID: 33
+Source sent:
+Those doors right now are closed, the former employee said.
+Target sent:
+这位前雇员说，现在那些现在的门是封闭的。
+
+Distance: 11.000000
+those doors right now are closed, the other employee said
+那些现在的门关闭了，另一名员工说
+Distance: 10.000000
+those doors right now are closed, the former man said
+那些现在的门关闭了，前者说道
+Distance: 10.000000
+those doors right now are closed, the former vampire said
+这位男子现在已经关闭，前吸血鬼说
+
+ID: 34
+Source sent:
+The most junior economists can present their research before senior vice presidents, and they're evaluated on how their recommendations impact the company ' s bottom line.
+Target sent:
+最初级经济学家可以在高级副总统之前提出他们的研究，他们评估了他们的建议如何影响公司的底线。
+
+Distance: 14.000000
+the most junior economists can present their research before senior vice presidents, and they are evaluated on how their ideas impact the company' s bottom line
+最初级经济学家可以在高级副总统之前提出他们的研究，他们是如何对他们的思想对公司的底线影响的研究
+Distance: 11.000000
+the most corporate economists can present their research before senior vice presidents, and they are evaluated on how their recommendations impact the company' s bottom line
+最具企业经济学家可以在高级副总裁之前提出他们的研究，他们的建议如何影响公司的底线
+Distance: 11.000000
+the most junior economists can present their research before senior vice presidents, and they are evaluated on how their actions impact the company' s bottom line
+最初级经济学家可以在高级副总裁之前提出他们的研究，他们是如何对他们的行为如何影响公司的底线来评估
+
+ID: 35
+Source sent:
+At its peak in 2014, the blood testing startup was a darling of Silicon Valley.
+Target sent:
+在2014年的高峰期，血液测试启动是硅谷的宠儿。
+
+Distance: 6.000000
+at its debut in 2014, the blood testing startup was a darling of silicon valley
+在2014年首次亮相时，血液检测初创公司是硅谷的宠儿
+Distance: 6.000000
+at its peak in 2014, the blood testing startup was a darling of sun valley
+在2014年的高峰期，血液测试启动是太阳谷的宠儿
+Distance: 5.000000
+at its peak in 2014, the blood testing startup was a kind of silicon valley
+在2014年的高峰期，血液测试启动是一种硅谷
+
+ID: 36
+Source sent:
+The Bank of England has said the fallout from that scenario would be worse than the 2008 financial crisis.
+Target sent:
+英格兰银行表示，从2008年的金融危机中，这种情况的堕落会更糟糕。
+
+Distance: 11.000000
+the bank of england has said the fallout from that scenario would be darker than the 2008 financial crisis
+英格兰银行表示，从那场比2008年的金融危机中，这方面的堕落是较暗的
+Distance: 11.000000
+the bank of england has said the fallout from that scenario would be greater than the 2008 financial crisis
+英格兰银行表示，从该情景中的出色将大于2008年金融危机
+Distance: 10.000000
+the bank of england has said the fallout from that disaster would be worse than the 2008 financial crisis
+英格兰银行表示，从2008年金融危机中越来越糟糕的灾害而言
+
+ID: 37
+Source sent:
+But if panic persisted and airlines were unwilling to buy it, the future of Boeing would be in jeopardy.
+Target sent:
+但如果恐慌持续存在，航空公司不愿意购买它，波音的未来将会在危险之中。
+
+Distance: 14.000000
+but if panic persisted and airlines were eager to buy it, the future of boeing would be in jeopardy
+但如果恐慌坚持和航空公司渴望购买，波音的未来将会在危险之中
+Distance: 14.000000
+but if panic persisted and airlines were unwilling to buy it, the future of america would be in jeopardy
+但如果恐慌坚持和航空公司不愿意购买它，美国将来会在危险之中
+Distance: 14.000000
+but if panic persisted and airlines were unwilling to buy it, the future of china would be in jeopardy
+但如果恐慌坚持和航空公司不愿意购买它，中国将来会在危险之中
+
+ID: 38
+Source sent:
+Holmes pleaded not guilty to the charges of wire fraud and conspiracy to commit wire fraud.
+Target sent:
+福尔摩斯恳求无罪归咎于电线欺诈和阴谋汇款欺诈。
+
+Distance: 15.000000
+holmes pleaded not guilty to the crimes of wire fraud and conspiracy to commit wire fraud
+福尔摩斯恳求无罪犯有线欺诈和阴谋犯下电线欺诈的罪行
+Distance: 15.000000
+holmes pleaded not guilty to the charges of mail fraud and conspiracy to commit wire fraud
+福尔摩斯向邮件欺诈和阴谋带来的指控辩护
+Distance: 14.000000
+holmes pleaded not guilty to the charges of computer fraud and conspiracy to commit wire fraud
+福尔摩斯向计算机欺诈和阴谋带来的指控辩护无罪
+
+ID: 39
+Source sent:
+According to a 2018 Harvard Business School study, venture capital firms that increased the number of female partners they hired by even 10% saw a bump in overall fund returns.
+Target sent:
+根据2018年哈佛商学院的研究，风险投资公司增加了他们雇用的女性合作伙伴的数量，甚至10％的人的总资金返回的颠簸。
+
+Distance: 19.000000
+according to a 2018 harvard business school study, venture capital firms that increased the number of female partners they hired by even 10% saw a drop in overall fund returns
+据2018年哈佛商学院学习，风险投资公司增加了他们甚至10％的女性伙伴的数量，甚至10％的人总体资金回报率下降
+Distance: 16.000000
+according to a 2018 harvard business school study, venture capital firms that increased the number of female partners they hired by even 10 females saw a bump in overall fund returns
+根据2018年哈佛商学院的研究，风险投资公司甚至10名女性甚至10名女性的女性伴侣数量增加了总体资金回报的颠簸
+Distance: 15.000000
+according to a 2018 harvard business news study, venture capital firms that increased the number of female partners they hired by even 10% saw a bump in overall fund returns
+根据2018年哈佛商业新闻学习，风险投资公司甚至10％的人雇用的女性合作伙伴数量增加了总体资金回报的颠簸
+
+ID: 40
+Source sent:
+Before, economists used to work on public data.
+Target sent:
+之前，经济学家习惯于公共数据。
+
+Distance: 4.000000
+before, economists used to work on more data
+之前，经济学家习惯于更多数据
+Distance: 1.000000
+before, economists used to work on big data
+之前，经济学家习惯于大数据
+Distance: 1.000000
+before, economists used to work on new data
+之前，经济学家习惯于新数据
+
+ID: 41
+Source sent:
+Throughout her career, Chan has often been one of the only women in the room.
+Target sent:
+在她的职业生涯中，陈经常是房间中唯一的女性之一。
+
+Distance: 10.000000
+throughout her career, jennifer has often been one of the only women in the room
+在她的职业生涯中，珍妮弗经常是房间里唯一一个
+Distance: 9.000000
+throughout her career, chan has often been one of the only ones in the room
+在她的职业生涯中，陈经常是房间中唯一的一个
+Distance: 9.000000
+throughout her career, chan has often been one of the only one in the room
+在她的职业生涯中，陈经常是房间中唯一的一个
+
+ID: 42
+Source sent:
+The folks at Amazon are not doing the same sort of traditional chief economist ' s role.
+Target sent:
+亚马逊的人们并没有做同样的传统主要经济学家的作用。
+
+Distance: 10.000000
+the folks at amazon are not doing the same half of traditional chief economist' s role
+亚马逊的人们并没有在传统的主要经济学家角色中做同样的一半
+Distance: 9.000000
+the folks at harvard are not doing the same sort of traditional chief economist' s role
+哈佛大方的人并没有做同样的传统首席经济学家的作用
+Distance: 9.000000
+the folks at amazon are not doing the same job of traditional chief economist' s role
+亚马逊的人们并没有在传统的主要经济学家的角色上做同样的工作
+
+ID: 43
+Source sent:
+And now, if they want to study behavior, the tech companies have it, and it ' s proprietary.
+Target sent:
+现在，如果他们想学习行为，科技公司拥有它，它是专有的。
+
+Distance: 9.000000
+and now, if they want to study behavior, the tech companies have it, and it' th proprietary
+现在，如果他们想学习行为，科技公司拥有它，它是一个专有的
+Distance: 5.000000
+and now, if they want to study behavior, the tech companies have it, and it' ll proprietary
+现在，如果他们想学习行为，科技公司拥有它，它是'LL专有的
+Distance: 4.000000
+and now, if they want to study behavior, the tech guys have it, and it' s proprietary
+而现在，如果他们想学习行为，科技会员有它，它是专有的
+
+ID: 44
+Source sent:
+Within a week of trying the platform, Chan was convinced the firm should invest.
+Target sent:
+在尝试平台的一周内，Chan确信该公司应该投资。
+
+Distance: 13.000000
+within a week of trying the idea, chan was convinced the firm should invest
+在尝试这个想法的一周内，陈被说服了这家公司应该投资
+Distance: 10.000000
+within a week of trying the platform, chan was convinced the children should invest
+在尝试平台的一周内，陈被说服了孩子应该投资
+Distance: 10.000000
+within a week of trying the platform, chan was convinced the school should invest
+在尝试平台的一周内，陈被说服了学校应该投资
+
+ID: 45
+Source sent:
+Anxious gossip about who is and is not mentioned in the latest news reports.
+Target sent:
+关于谁是谁，并且在最新消息报告中未提及。
+
+Distance: 11.000000
+anxious gossip about who is and is not mentioned in the latest weather reports
+关于谁在最新的天气报告中未提及的敬畏八卦
+Distance: 10.000000
+anxious gossip about who is and is not mentioned in the various news reports
+关于谁是谁并且在各种新闻报道中未提及的焦虑八卦
+Distance: 9.000000
+anxious questions about who is and is not mentioned in the latest news reports
+关于谁是谁并且未提及的最新消息报告
+
+ID: 46
+Source sent:
+The ultimate scale of the exodus is likely to depend on the terms of the divorce and when it occurs.
+Target sent:
+埃及州的最终规模可能取决于离婚的条款以及发生时。
+
+Distance: 16.000000
+the ultimate scale of the abuse is likely to depend on the terms of the divorce and when it occurs
+滥用的最终规模可能取决于离婚的条款以及它发生的时间
+Distance: 14.000000
+the ultimate scale of the exodus is likely to depend on the duration of the divorce and when it occurs
+出埃及二的最终规模可能取决于离婚的持续时间以及发生时的持续时间
+Distance: 13.000000
+the ultimate scale of the exodus is understood to depend on the terms of the divorce and when it occurs
+埃及克斯的最终规模被理解为取决于离婚的条款以及发生时
+
+ID: 47
+Source sent:
+If that does not happen, the chances of the country crashing out of the bloc without a transitional deal on March 29 increase.
+Target sent:
+如果没有发生这种情况，将于3月29日在没有过渡交易的情况下崩溃的国家崩溃。
+
+Distance: 19.000000
+if that does not happen, the end of the country crashing out of the bloc without a transitional deal on march 29 increase
+如果这不发生，国家结束了3月29日没有过渡交易的集团崩溃
+Distance: 17.000000
+if that does not happen, the chances of the country crashing out of the bloc without a big deal on march 29 increase
+如果没有发生这种情况，该国的机会在3月29日没有大笔交易的情况下崩溃了
+Distance: 16.000000
+if that does not happen, the state of the country crashing out of the bloc without a transitional deal on march 29 increase
+如果这不会发生，如果3月29日，国内的国家就没有过渡交易而崩溃
+
+ID: 48
+Source sent:
+Deutsche Bank investors are running out of patience.
+Target sent:
+Deutsche银行投资者耐心不足。
+
+Distance: 3.000000
+deutsche bank kids are running out of patience
+Deutsche Bank Kids耐心不足
+Distance: 1.000000
+deutsche bank banks are running out of patience
+德意志银行银行耐心不足
+Distance: 1.000000
+deutsche bank members are running out of patience
+德意志银行成员耐心不足
+
+ID: 49
+Source sent:
+At the time, Facebook said age based targeting is an accepted industry practice.
+Target sent:
+当时，Facebook表示，基于年龄的目标是一个接受的行业实践。
+
+Distance: 9.000000
+at the time, facebook said age based targeting is an old industry practice
+当时，Facebook表示，基于年龄的目标是旧行业的实践
+Distance: 6.000000
+at the campaign, facebook said age based targeting is an accepted industry practice
+在竞选活动中，Facebook表示，基于年龄的目标是一个接受的行业实践
+Distance: 6.000000
+at the time, facebook said age based targeting is an asian industry practice
+当时，Facebook表示，基于年龄的目标是亚洲工业实践
+
+ID: 50
+Source sent:
+Actress Jennifer Lawrence is also expected to star as Holmes in a movie based on Bad Blood.
+Target sent:
+女演员Jennifer Lawrence也有望在一部基于血液的电影中担任福尔摩斯。
+
+Distance: 14.000000
+actress jennifer lawrence is also expected to star as rachel in a movie based on bad blood
+女演员Jennifer Lawrence也预计将在基于坏血的电影中担任rachel
+Distance: 14.000000
+actress jennifer lawrence is also expected to star as claire in a movie based on bad blood
+女演员Jennifer Lawrence也预计将在基于坏血的电影中扮演克莱尔
+Distance: 14.000000
+actress jennifer lawrence is also expected to star as holmes in a film based on bad blood
+女演员Jennifer Lawrence也预计将在基于坏血的电影中担任福尔摩斯
+
+ID: 51
+Source sent:
+Housing, employment, and credit ads are crucial to helping people buy new homes, start great careers, and gain access to credit.
+Target sent:
+住房，就业和信贷广告至关重要，帮助人们购买新房，开始伟大的职业生涯，并获得信贷。
+
+Distance: 14.000000
+housing, employment, and credit ads are crucial to helping people buy new homes, start new careers, and gain access to credit
+住房，就业和信用广告对帮助人们购买新房，开始新的职业，并获得信贷获得的至关重要
+Distance: 13.000000
+housing, employment, and credit ads are crucial to helping people buy new homes, start international careers, and gain access to credit
+住房，就业和信用广告对帮助人们购买新房，开始国际职业，并获得信贷
+Distance: 13.000000
+housing, employment, and credit ads are crucial to helping people buy new homes, start great kids, and gain access to credit
+住房，就业和信用广告对帮助人们购买新家，开始伟大的孩子，并获得信贷
+
+ID: 52
+Source sent:
+Since then, the ex employee has been rejected for multiple jobs and is still searching.
+Target sent:
+从那时起，前员工已被拒绝多次工作，仍在搜索。
+
+Distance: 13.000000
+since then, the ex employee has been rejected for more jobs and is still searching
+从那以后，前员工被拒绝了更多的工作，仍在搜索
+Distance: 9.000000
+since then, the ex employee has been rejected for many jobs and is still searching
+从那时起，前雇员被拒绝了很多工作，并且仍在搜索
+Distance: 9.000000
+since then, the ex employee has been rejected for multiple things and is still searching
+从那时起，前员工被拒绝了多件事并且仍在搜索
+
+ID: 53
+Source sent:
+Once hired, research questions were everywhere.
+Target sent:
+曾经雇用过，研究问题无处不在。
+
+Distance: 7.000000
+once hired, research people were everywhere
+曾经雇用过，研究人们到处都是
+Distance: 7.000000
+once hired, research men were everywhere
+曾经雇用过，研究人们到处都是
+Distance: 7.000000
+once hired, research employees were everywhere
+曾经雇用过，研究员工到处都是
+

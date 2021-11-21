@@ -1,0 +1,794 @@
+ID: 1
+Source sent:
+Gavin Newsom ' s first budget proposed extending that to a second year.
+Target sent:
+加文·纽森的第一份预算提议将这一政策延长到第二年。
+
+Distance: 11.000000
+gavin canada' s first budget proposed extending that to a second year
+加文在加拿大的第一份预算中提议将该计划延长到第二年
+Distance: 9.000000
+gavin alberta' s first budget proposed extending that to a second year
+加文•阿尔伯塔的第一份预算提议将该计划延长到第二年
+Distance: 8.000000
+gavin ontario' s first budget proposed extending that to a second year
+加文在安大略的第一份预算中提议将该计划延长到第二年
+
+ID: 2
+Source sent:
+And in the wake of the New Zealand tragedy, I want to make one thing very clear: we will not permit such hate in the homeland, she added.
+Target sent:
+她补充说:“在新西兰悲剧发生后，我想明确一点:我们不会允许这样的仇恨在我们的祖国出现。”
+
+Distance: 23.000000
+and in the moment of the new zealand tragedy, i want to make one thing very clear: we will not permit such hate in the homeland, she added
+她补充说:“在新西兰发生悲剧的时刻，我要非常明确地表明一件事:我们不会允许这种仇恨在我们的祖国出现。
+Distance: 22.000000
+and in the wake of the new belgrade tragedy, i want to make one thing very clear: we will not permit such hate in the homeland, she added
+她补充说:“在贝尔格莱德发生新的悲剧之后，我要非常明确地表明一件事:我们不会允许这种仇恨在祖国出现。
+Distance: 21.000000
+and in the wake of the new zealand tragedy, i want to make one thing very clear: we will not permit such hate in the media, she added
+她补充说:“在新西兰悲剧发生后，我要非常明确地表明一件事:我们不会允许媒体出现这种仇恨。
+
+ID: 3
+Source sent:
+Mueller also received approval on two separate occasions to track the numbers of Cohen ' s incoming and outgoing calls.
+Target sent:
+米勒还两次获得批准，可以追踪科恩的呼入和呼出电话号码。
+
+Distance: 16.000000
+mueller also received patents on two separate occasions to track the numbers of cohen' s incoming and outgoing calls
+米勒还在两个不同的场合获得了追踪科恩打进和打出电话号码的专利
+Distance: 16.000000
+mueller also received advice on two separate occasions to track the numbers of cohen' s incoming and outgoing calls
+米勒还在两个不同的场合收到了追踪科恩打进和打出电话号码的建议
+Distance: 13.000000
+mueller also received approval on two separate sites to track the numbers of cohen' s incoming and outgoing calls
+米勒还获准在两个不同的网站上追踪科恩的呼入和呼出电话号码
+
+ID: 4
+Source sent:
+Harley Davidson, stuck in the middle, said it could lose $100 million per year, so the company decided to move some production overseas to avoid the EU tariffs.
+Target sent:
+哈雷戴维森(Harley Davidson)被困在了中间，该公司表示，每年可能损失1亿美元，因此决定将部分生产转移到海外，以避免欧盟关税。
+
+Distance: 20.000000
+harley davidson, stuck in the middle, said it could lose $100 million per quarter, so the company decided to move some production overseas to avoid the eu tariffs
+哈雷戴维森公司被困在中间，说它每季度可能损失1亿美元，因此公司决定将部分生产转移到海外，以避免欧盟关税
+Distance: 19.000000
+harley company, stuck in the middle, said it could lose $100 million per year, so the company decided to move some production overseas to avoid the eu tariffs
+哈雷公司，被困在中间，说它可能每年损失1亿美元，所以公司决定把一些生产转移到海外，以避免欧盟关税
+Distance: 19.000000
+harley davidson, stuck in the middle, said it could lose $100 million per company, so the company decided to move some production overseas to avoid the eu tariffs
+哈雷戴维森公司被困在中间，表示每家公司可能损失1亿美元，因此该公司决定将部分生产转移到海外，以避免欧盟关税
+
+ID: 5
+Source sent:
+There ' s zero hostility with me.
+Target sent:
+对我没有任何敌意。
+
+Distance: 8.000000
+there' s zero time with me
+没有时间和我在一起
+Distance: 8.000000
+there' s zero years with me
+和我在一起的时间是零
+Distance: 7.000000
+there' s zero level with me
+我的水平是零
+
+ID: 6
+Source sent:
+Let ' s take a step back here and think of what happened here in Washington on Tuesday.
+Target sent:
+让我们回到这里，想想周二在华盛顿发生了什么。
+
+Distance: 5.000000
+let' s take a step back here and think of what happened here in seattle on tuesday
+让我们回到这里，想想周二在西雅图发生的事情
+Distance: 5.000000
+let' s take a step back here and think of what happened here in boston on tuesday
+让我们回到这里，想想周二在波士顿发生的事情
+Distance: 4.000000
+let' s take a drink back here and think of what happened here in washington on tuesday
+让我们回到这里喝一杯，想想周二在华盛顿发生了什么
+
+ID: 7
+Source sent:
+But even so, they remain bastions of privilege.
+Target sent:
+但即便如此，它们仍然是特权的堡垒。
+
+Distance: 8.000000
+but even so, they remain citizens of privilege
+但即便如此，他们仍是享有特权的公民
+Distance: 7.000000
+but even so, they remain members of privilege
+但即便如此，他们仍然享有特权
+Distance: 7.000000
+but even so, they remain women of privilege
+但即便如此，她们仍然享有特权
+
+ID: 8
+Source sent:
+The Census Bureau estimates they will reach a majority of the under 18 population around 2020.
+Target sent:
+美国人口普查局(Census Bureau)估计，到2020年左右，大多数18岁以下的人都将面临失业。
+
+Distance: 14.000000
+the census watch estimates they will reach a majority of the under 18 population around 2020
+人口普查观察估计，到2020年左右，18岁以下的人口将占大多数
+Distance: 13.000000
+the census bureau estimates they will reach a percentage of the under 18 population around 2020
+人口普查局估计，到2020年左右，18岁以下的人口将会有一部分是独生子女
+Distance: 12.000000
+the census survey estimates they will reach a majority of the under 18 population around 2020
+人口普查估计，到2020年左右，18岁以下人口将占大多数
+
+ID: 9
+Source sent:
+But it would keep the new investment in Michigan and focus there on self driving vehicles, according to reports.
+Target sent:
+但据报道，该公司将保留在密歇根州的新投资，并将重点放在自动驾驶汽车上。
+
+Distance: 14.000000
+but it would keep the new city in michigan and focus there on self driving vehicles, according to reports
+但据报道，新城市将保留在密歇根州，并专注于自动驾驶汽车
+Distance: 14.000000
+but it would keep the new car in michigan and focus there on self driving vehicles, according to reports
+但据报道，该公司将把新车留在密歇根州，并专注于自动驾驶汽车
+Distance: 14.000000
+but it would keep the new cars in michigan and focus there on self driving vehicles, according to reports
+但据报道，该公司将把新车留在密歇根州，并专注于自动驾驶汽车
+
+ID: 10
+Source sent:
+Meanwhile, whites still fill most of the seats at the most selective institutions, which spend the most on their students.
+Target sent:
+与此同时，白人仍然占据着最挑剔的院校的大部分席位，这些院校在学生身上花费最多。
+
+Distance: 11.000000
+meanwhile, whites still fill most of the seats at the most elite institutions, which spend the most on their students
+与此同时，白人仍然占据大多数精英院校的席位，这些院校在学生身上的花费最多
+Distance: 11.000000
+meanwhile, whites still fill most of the seats at the most private institutions, which spend the most on their students
+与此同时，白人仍然占据着大多数私立学校的大部分席位，这些学校在学生身上的花费最多
+Distance: 10.000000
+meanwhile, whites still fill several of the seats at the most selective institutions, which spend the most on their students
+与此同时，白人仍然占据着顶尖院校的一些席位，这些院校在学生身上的花费最多
+
+ID: 11
+Source sent:
+I have always said to my friends that focusing just on affirmative action ... is not a solution.
+Target sent:
+我总是对我的朋友们说，只关注平权行动……不是解决方案。
+
+Distance: 7.000000
+i have always said to my mother that focusing just on affirmative action...is not a solution
+我总是对我母亲说，只关注平权行动……不是解决方案
+Distance: 7.000000
+i have always said to my mom that focusing just on affirmative action...is not a solution
+我总是对我妈妈说，只关注平权行动……不是解决方案
+Distance: 7.000000
+i have always said to my brother that focusing just on affirmative action...is not a solution
+我总是对我弟弟说，只关注平权行动……不是解决方案
+
+ID: 12
+Source sent:
+I had a story to tell and I wanted to finish it, Draper says.
+Target sent:
+“我有个故事要讲，我想把它讲完，”德雷柏说。
+
+Distance: 11.000000
+i had a chance to tell and i wanted to finish it, draper says
+德雷柏说:我有机会讲，我想把它讲完
+Distance: 9.000000
+i had a night to tell and i wanted to finish it, draper says
+德雷柏说:“我有一个晚上可以讲，我想把它讲完。
+Distance: 8.000000
+i had a life to tell and i wanted to finish it, draper says
+德雷柏说:我有自己的人生要讲，我想把它讲完
+
+ID: 13
+Source sent:
+Trump promised that if he were elected, the company would stay.
+Target sent:
+特朗普承诺，如果他当选，该公司将保留。
+
+Distance: 5.000000
+trump promised that if he were elected, the sun would stay
+特朗普承诺，如果他当选，太阳会留下来
+Distance: 4.000000
+trump promised that if he were elected, the dog would stay
+特朗普承诺，如果他当选，这只狗将留下
+Distance: 3.000000
+trump promised that if he were elected, the curse would stay
+特朗普承诺，如果他当选，诅咒将继续存在
+
+ID: 14
+Source sent:
+And attacking a dead man who spent five years as a prisoner of war and another three decades serving the country in elected office, is simply wrong.
+Target sent:
+攻击一个在战争中被囚禁了5年，在选举中为国家服务了30年的人，是完全错误的。
+
+Distance: 21.000000
+and attacking a dead man who spent five years as a prisoner of fact and another three decades serving the country in elected office, is simply wrong
+攻击一个已经死去的人，这个人在五年的时间里被当作囚犯，在另外三十年里在民选的办公室里为国家服务，这是完全错误的
+Distance: 19.000000
+and attacking a dead man who spent five years as a weapon of war and another three decades serving the country in elected office, is simply wrong
+攻击一个已经死去的人是完全错误的，他曾在五年的时间里作为战争的武器，在另一个三十年里担任民选公职，为国家服务
+Distance: 18.000000
+and attacking a powerful man who spent five years as a prisoner of war and another three decades serving the country in elected office, is simply wrong
+攻击一个有权势的人是完全错误的，他曾做过五年的战俘，又在民选的办公室里为国家服务了三十年
+
+ID: 15
+Source sent:
+During a question and answer session, however, Nielsen added that other nation states have adopted a more visible approach to doing the same.
+Target sent:
+然而，在问答环节中，尼尔森补充说，其他国家也采取了更明显的方式来做同样的事情。
+
+Distance: 10.000000
+during a question and answer session, however, nielsen added that several nation states have adopted a more visible approach to doing the same
+然而，在一次问答环节中，尼尔森补充说，几个国家已经采取了一种更明显的方式来做同样的事情
+Distance: 9.000000
+during a question and answer session, however, nielsen added that many nation states have adopted a more visible approach to doing the same
+然而，在一次问答环节中，尼尔森补充说，许多国家已经采取了一种更明显的方式来做同样的事情
+Distance: 9.000000
+during a question and answer session, however, nielsen added that most nation states have adopted a more visible approach to doing the same
+然而，在一次问答环节中，尼尔森补充说，大多数国家都采取了一种更明显的方式来做同样的事情
+
+ID: 16
+Source sent:
+In these top tier public schools, African American and Latino students compose only 19% of the entering class.
+Target sent:
+在这些顶级公立学校，非裔美国人和拉丁裔学生只占新生的19%。
+
+Distance: 7.000000
+in these top tier public schools, african american and latino students compose only 19 points of the entering class
+在这些顶级公立学校中，非洲裔和拉丁裔学生在新生中只占19分
+Distance: 7.000000
+in these top tier public schools, african american and latino students compose only 19 members of the entering class
+在这些一流的公立学校，非裔美国人和拉丁裔美国人的新生只有19人
+Distance: 7.000000
+in these top tier public schools, african american and latino students compose only 19 students of the entering class
+在这些一流的公立学校，非裔美国人和拉丁裔美国人的新生只有19人
+
+ID: 17
+Source sent:
+When asked about the threat from drones, Nielsen said during the Super Bowl the department tried out new defenses and confirmed that we did see drones.
+Target sent:
+当被问及无人机的威胁时，尼尔森说，在超级碗期间，国防部尝试了新的防御措施，并证实我们确实看到了无人机。
+
+Distance: 8.000000
+when asked about the threat from drones, nielsen said during the super bowl the department tried out new ones and confirmed that we did see drones
+当被问及无人机的威胁时，尼尔森说，在超级碗期间，国防部尝试了新的无人机，并证实我们确实看到了无人机
+Distance: 8.000000
+when asked about the defense from drones, nielsen said during the super bowl the department tried out new defenses and confirmed that we did see drones
+当被问及无人机的防御时，尼尔森说，在超级碗期间，国防部尝试了新的防御措施，并证实我们确实看到了无人机
+Distance: 8.000000
+when asked about the defenses from drones, nielsen said during the super bowl the department tried out new defenses and confirmed that we did see drones
+当被问及无人机的防御时，尼尔森说，在超级碗期间，国防部尝试了新的防御措施，并证实我们确实看到了无人机
+
+ID: 18
+Source sent:
+After pleading guilty in the Manhattan probe, Cohen also later pleaded guilty to lying to Congress in a case brought by Mueller ' s investigators.
+Target sent:
+在曼哈顿的调查中认罪后，科恩后来也承认在穆勒调查人员提出的案件中向国会撒谎。
+
+Distance: 9.000000
+after pleading innocent in the manhattan probe, cohen also later pleaded guilty to lying to congress in a case brought by mueller' s investigators
+科恩在曼哈顿的调查中声称自己无罪，后来又承认在穆勒的调查人员提出的案件中向国会撒谎
+Distance: 9.000000
+after pleading guilty in the manhattan probe, cohen also later pleaded guilty to lying to congress in a trial brought by mueller' s investigators
+在曼哈顿的调查中认罪后，科恩后来也承认在穆勒调查人员的审判中向国会撒谎
+Distance: 8.000000
+after pleading guilty in the manhattan crimes, cohen also later pleaded guilty to lying to congress in a case brought by mueller' s investigators
+在承认在曼哈顿的罪行后，科恩后来也承认在穆勒的调查人员提出的案件中向国会撒谎
+
+ID: 19
+Source sent:
+It ' s been a long time in the making.
+Target sent:
+我花了很长时间才准备好。
+
+Distance: 14.000000
+it' s been a long day in the making
+这是漫长的一天
+Distance: 14.000000
+it' s been a long year in the making
+这是漫长的一年
+Distance: 14.000000
+it' s been a long week in the making
+这是漫长的一周
+
+ID: 20
+Source sent:
+Nielsen said the most serious cyber threats are those aimed at the heart of democracy.
+Target sent:
+尼尔森说，最严重的网络威胁是那些针对民主核心的威胁。
+
+Distance: 13.000000
+nielsen said the most serious cyber threats are those aimed at the restoration of democracy
+尼尔森说，最严重的网络威胁是那些旨在恢复民主的威胁
+Distance: 12.000000
+nielsen said the most serious cyber threats are those aimed at the building of democracy
+尼尔森说，最严重的网络威胁是那些旨在建设民主的网络威胁
+Distance: 12.000000
+nielsen said the most serious cyber threats are those aimed at the construction of democracy
+尼尔森说，最严重的网络威胁是那些旨在建设民主的网络威胁
+
+ID: 21
+Source sent:
+The South has emerged as a hub of new auto manufacturing by foreign makers thanks to lower manufacturing costs and less powerful unions.
+Target sent:
+由于制造成本较低，工会势力较弱，韩国已成为外国制造商的新汽车制造中心。
+
+Distance: 15.000000
+the south has emerged as a hub of local auto manufacturing by foreign makers thanks to lower manufacturing costs and less powerful unions
+由于较低的制造成本和较弱的工会，南方已经成为外国制造商在当地制造汽车的中心
+Distance: 14.000000
+the south has emerged as a hub of new york manufacturing by foreign makers thanks to lower manufacturing costs and less powerful unions
+由于较低的制造成本和较弱的工会，南方已经成为外国制造商在纽约制造的中心
+Distance: 14.000000
+the south has emerged as a hub of new auto production by foreign makers thanks to lower manufacturing costs and less powerful unions
+由于较低的制造成本和较弱的工会，南方已经成为外国制造商新汽车生产的中心
+
+ID: 22
+Source sent:
+He said the greater importance of the case lies in the power that the majority opinion grants to the government.
+Target sent:
+他说，这个案件的更大重要性在于多数意见赋予政府的权力。
+
+Distance: 10.000000
+he said the greater importance of the case lies in the rights that the majority opinion grants to the government
+他说，这个案件更重要的是多数意见赋予政府的权利
+Distance: 10.000000
+he said the greater importance of the case lies in the property that the majority opinion grants to the government
+他说，本案更重要的是多数意见赋予政府的财产
+Distance: 10.000000
+he said the greater importance of the case lies in the power that the majority party grants to the government
+他说，这个案子更重要的是多数党赋予政府的权力
+
+ID: 23
+Source sent:
+A year later, in December of 2017, Ford again shifted plans and announced it would make those electric cars in Mexico after all.
+Target sent:
+一年后，也就是2017年12月，福特再次改变了计划，宣布将在墨西哥生产这些电动汽车。
+
+Distance: 10.000000
+a year later, in anticipation of 2017, ford again shifted plans and announced it would make those electric cars in mexico after all
+一年后，预计到2017年，福特再次改变计划，宣布将在墨西哥生产这些电动汽车
+Distance: 9.000000
+a year later, in front of 2017, ford again shifted plans and announced it would make those electric cars in mexico after all
+一年后，在2017年之前，福特再次改变了计划，宣布将在墨西哥生产这些电动汽车
+Distance: 6.000000
+a year later, in back of 2017, ford again shifted plans and announced it would make those electric cars in mexico after all
+一年后，也就是2017年，福特再次改变了计划，宣布将在墨西哥生产电动汽车
+
+ID: 24
+Source sent:
+It ' s not just a matter of sending money their way.
+Target sent:
+这不仅仅是给他们送钱的问题。
+
+Distance: 12.000000
+it' s not just a lot of sending money their way
+不只是给他们送钱那么简单
+Distance: 11.000000
+it' s not just a couple of sending money their way
+这可不是几个人送钱那么简单
+Distance: 6.000000
+it' s not just a matter of sending someone their way
+这不仅仅是把人送走的问题
+
+ID: 25
+Source sent:
+Now it will utilize the site to make smaller flat screen panels than originally anticipated.
+Target sent:
+现在，该公司将利用该基地制造比最初预期更小的平板屏幕。
+
+Distance: 13.000000
+now it will utilize the site to make smaller flat ceramic panels than originally anticipated
+现在，它将利用这一场地制造比原先预期更小的平面陶瓷板
+Distance: 12.000000
+now it will utilize the site to make stronger flat screen panels than originally anticipated
+现在，它将利用这一场地制造比原先预期更坚固的平板屏幕
+Distance: 10.000000
+now it will utilize the site to make smaller flat screen tv than originally anticipated
+现在，它将利用这块土地生产比原先预期的更小的平板电视
+
+ID: 26
+Source sent:
+Whites compose only 54% of the college age population.
+Target sent:
+白人只占大学适龄人口的54%。
+
+Distance: 7.000000
+whites compose only 54 members of the college age population
+在大学适龄人口中，白人只有54人
+Distance: 7.000000
+whites compose only 54 individuals of the college age population
+白人在大学适龄人口中只占54人
+Distance: 7.000000
+whites compose only 54 people of the college age population
+在大学适龄人口中，白人只有54人
+
+ID: 27
+Source sent:
+I think drones is a great example of where technology itself is not good or bad.
+Target sent:
+我认为无人机是一个很好的例子，说明了技术本身的好坏。
+
+Distance: 14.000000
+i think drones is a rare example of where technology itself is not good or bad
+我认为无人机是技术本身不好或不好的罕见例子
+Distance: 14.000000
+i think drones is a great example of where technology itself is not right or bad
+我认为无人机是一个很好的例子，说明技术本身是不对的或不好的
+Distance: 13.000000
+i think drones is a great example of where everything itself is not good or bad
+我认为无人机是一个很好的例子，说明一切本身都不是好或坏的
+
+ID: 28
+Source sent:
+I am very concerned about whether these institutions are doing a good enough job at getting these students to graduation.
+Target sent:
+我非常担心这些机构在让这些学生毕业方面做得是否足够好。
+
+Distance: 9.000000
+i am very concerned about whether these institutions are doing a good enough time at getting these students to graduation
+我很担心这些学校是否有足够的时间让这些学生毕业
+Distance: 8.000000
+i am very serious about whether these institutions are doing a good enough job at getting these students to graduation
+我对这些机构在让这些学生毕业方面是否做得足够好很认真
+Distance: 7.000000
+i am very concerned about whether these people are doing a good enough job at getting these students to graduation
+我非常担心这些人在让这些学生毕业方面是否做得足够好
+
+ID: 29
+Source sent:
+Covering a memorial service in the nation ' s capital and then traveling to Texas for another service as well as a funeral train was an honor, he says.
+Target sent:
+他说，报道在美国首都举行的追悼会，然后前往得克萨斯州参加另一场追悼会和葬礼列车是一种荣誉。
+
+Distance: 13.000000
+covering a small service in the nation' s capital and then traveling to texas for another service as well as a funeral train was an honor, he says
+他说，在首都参加一项小型服务，然后前往得克萨斯州参加另一项服务和一辆葬礼列车是一种荣誉
+Distance: 13.000000
+covering a memorial service in the nation' s capital and then traveling to texas for another service as well as a funeral service was an honor, he says
+他说，报道在美国首都的一场追悼会，然后去得克萨斯州参加另一场追悼会和一场葬礼是一种荣誉
+Distance: 13.000000
+covering a memorial service in the nation' s capital and then traveling to texas for another service as well as a funeral ceremony was an honor, he says
+他说，报道在美国首都的一场追悼会，然后前往得克萨斯州参加另一场追悼会和一场葬礼是一种荣誉
+
+ID: 30
+Source sent:
+Trump, then President elect, was pleased.
+Target sent:
+当时当选总统的特朗普很高兴。
+
+Distance: 9.000000
+trump, then president washington, was pleased
+当时的华盛顿总统特朗普很高兴
+Distance: 8.000000
+trump, then president president, was pleased
+当时的总统特朗普很高兴
+
+ID: 31
+Source sent:
+It ' s a shame what ' s happening in Venezuela, the death and the destruction and the hunger.
+Target sent:
+委内瑞拉发生的死亡、破坏和饥饿真是令人遗憾。
+
+Distance: 12.000000
+it' s a magazine what' s happening in venezuela, the death and the destruction and the hunger
+这是一本关于委内瑞拉的杂志，关于死亡，毁灭和饥饿
+Distance: 8.000000
+it' s a story what' s happening in venezuela, the death and the destruction and the hunger
+这是一个发生在委内瑞拉的故事，死亡，毁灭和饥饿
+Distance: 8.000000
+it' s a movie what' s happening in venezuela, the death and the destruction and the hunger
+这是一部发生在委内瑞拉的电影，死亡、毁灭和饥饿
+
+ID: 32
+Source sent:
+He was still an asterisk in most polling.
+Target sent:
+在大多数民意调查中，他仍是个未知数。
+
+Distance: 8.000000
+he was still an expert in most polling
+他仍然是大多数民意调查的专家
+Distance: 6.000000
+he was still an inch in most polling
+他在大多数民意调查中仍领先一英寸
+Distance: 5.000000
+he was still an item in most polling
+他仍然是大多数民意调查中的一个问题
+
+ID: 33
+Source sent:
+In public schools, the fight may center on other fronts.
+Target sent:
+在公立学校，斗争可能集中在其他方面。
+
+Distance: 10.000000
+in public knowledge, the fight may center on other fronts
+众所周知，这场斗争可能会集中在其他方面
+Distance: 7.000000
+in public opinion, the fight may center on other fronts
+在公众舆论中，斗争可能会集中在其他方面
+Distance: 7.000000
+in public schools, the fight may center on specific fronts
+在公立学校，斗争可能集中在特定的战线上
+
+ID: 34
+Source sent:
+Young people of color became a majority of K 12 public school students in 2014.
+Target sent:
+2014年，有色人种的年轻人成为K - 12公立学校学生的主要组成部分。
+
+Distance: 15.000000
+young bands of color became a majority of k 12 public school students in 2014
+2014年，年轻的有色人种组合在公立学校的12年级学生中占了大多数
+Distance: 13.000000
+young people of color became a majority of district 12 public school students in 2014
+2014年，第12区公立学校的大部分学生都是有色人种
+Distance: 12.000000
+young people of color became a focus of k 12 public school students in 2014
+2014年，有色人种的年轻人成为了公立中小学学生关注的焦点
+
+ID: 35
+Source sent:
+Ultimately, Preap was released from immigration custody but he remains the lead plaintiff for a class of others with similar complaints.
+Target sent:
+最终，普里普从移民拘留所里被释放，但他仍然是一群有类似投诉的人的主要原告。
+
+Distance: 6.000000
+ultimately, scott was released from immigration custody but he remains the lead plaintiff for a class of others with similar complaints
+最终，斯科特从移民拘留中被释放，但他仍然是其他一些有类似投诉的人的主要原告
+Distance: 4.000000
+ultimately, david was released from immigration custody but he remains the lead plaintiff for a class of others with similar complaints
+最终，大卫从移民拘留处被释放，但他仍然是一群有类似投诉的人的主要原告
+
+ID: 36
+Source sent:
+But only 6% of them attend private institutions, and though the elite University of California system has significantly increased its Latino enrollment, just 4% attend one of those campuses.
+Target sent:
+但只有6%的学生就读于私立学校，尽管精英的加州大学系统大幅增加了拉美裔学生的入学人数，但只有4%的学生就读于私立学校。
+
+Distance: 20.000000
+but only 6% of them attend private institutions, and though the elite rest of california system has significantly increased its latino enrollment, just 4% attend one of those campuses
+但是只有6%的学生上的是私立学校，尽管加州其余的精英学校大幅增加了拉美裔学生的入学率，但只有4%的学生上的是私立学校
+Distance: 12.000000
+but only 6% of them attend private universities, and though the elite university of california system has significantly increased its latino enrollment, just 4% attend one of those campuses
+但是只有6%的学生上私立大学，尽管加州精英大学系统显著增加了拉丁裔学生的入学人数，但只有4%的学生上私立大学
+Distance: 12.000000
+but only 6% of them attend private colleges, and though the elite university of california system has significantly increased its latino enrollment, just 4% attend one of those campuses
+但是只有6%的学生上私立大学，尽管加州精英大学系统显著增加了拉丁裔学生的入学人数，但只有4%的学生上私立大学
+
+ID: 37
+Source sent:
+It ' s certainly true that the number of manufacturing jobs has increased.
+Target sent:
+制造业工作岗位的数量确实增加了。
+
+Distance: 5.000000
+it' s certainly true that the number of manufacturing companies has increased
+毫无疑问，制造企业的数量增加了
+Distance: 5.000000
+it' s certainly true that the number of manufacturing firms has increased
+毫无疑问，制造企业的数量增加了
+Distance: 4.000000
+it' s certainly true that the number of manufacturing operations has increased
+毫无疑问，制造业的数量增加了
+
+ID: 38
+Source sent:
+And he pointed out that Toyota, the Japanese company, is investing in the US by opening new plants.
+Target sent:
+他还指出，日本公司丰田(Toyota)正通过开设新工厂的方式在美国投资。
+
+Distance: 16.000000
+and he pointed out that toyota, the japanese company, is investing in the school by opening new plants
+他还指出，日本丰田公司正在通过开设新工厂来投资这所学校
+Distance: 16.000000
+and he pointed out that toyota, the japanese company, is investing in the forest by opening new plants
+他还指出，日本丰田公司正在通过开设新工厂来投资这片森林
+Distance: 15.000000
+and he pointed out that toyota, the japanese company, is investing in the village by opening new plants
+他还指出，日本丰田公司正在投资兴建新工厂
+
+ID: 39
+Source sent:
+The proposals came out of the National Council for the American Worker, which President Donald Trump created last year.
+Target sent:
+这些建议来自美国工人全国委员会，该委员会是唐纳德·特朗普总统去年创建的。
+
+Distance: 14.000000
+the proposals came out of the national council for the industrial worker, which president donald trump created last year
+这些建议来自唐纳德·特朗普总统去年创建的全国产业工人委员会
+Distance: 13.000000
+the proposals came out of the national fund for the american worker, which president donald trump created last year
+这些提议来自唐纳德·特朗普总统去年创建的美国工人国家基金
+Distance: 13.000000
+the proposals came out of the world council for the american worker, which president donald trump created last year
+这些提议来自唐纳德·特朗普总统去年创建的美国工人世界理事会
+
+ID: 40
+Source sent:
+The most elite public universities admit a considerably larger percentage of students from lower income backgrounds than do the elite private schools.
+Target sent:
+与精英私立学校相比，最优秀的公立大学录取来自低收入家庭的学生的比例要大得多。
+
+Distance: 15.000000
+the most elite public universities admit a considerably larger percentage of students from lower class backgrounds than do the elite private schools
+与精英私立学校相比，最优秀的公立大学录取的来自下层社会的学生比例要大得多
+Distance: 15.000000
+the most elite public universities admit a considerably larger percentage of students from lower income backgrounds than do the popular private schools
+最优秀的公立大学录取的来自低收入家庭的学生比例要比受欢迎的私立学校大得多
+Distance: 15.000000
+the most elite american universities admit a considerably larger percentage of students from lower income backgrounds than do the elite private schools
+与精英私立学校相比，美国最顶尖的大学录取来自低收入家庭的学生的比例要大得多
+
+ID: 41
+Source sent:
+Looking back at the experience of a lifetime, Draper says he accomplished what he set out to do during his eight years with Bush.
+Target sent:
+回顾这一生的经历，德雷珀说，他在布什执政的8年里完成了他想要做的事情。
+
+Distance: 15.000000
+looking back at the experience of a lifetime, draper says he accomplished what he set out to do during his eight meetings with bush
+回顾这一生的经历，德雷柏说他在与布什的8次会谈中完成了他的计划
+Distance: 13.000000
+looking back at the experience of a man, draper says he accomplished what he set out to do during his eight years with bush
+回顾一个人的经历，德雷柏说他完成了他在布什的8年里想要做的事情
+Distance: 12.000000
+looking back at the experience of a lifetime, draper says he accomplished what he set out to do during his eight seasons with bush
+回顾这一生的经历，德雷柏说，他完成了他在与布什相处的8个季节中开始做的事情
+
+ID: 42
+Source sent:
+Entering talks, Brazil hoped to see itself elevated to major non NATO ally status by the Trump administration, a major step that would help it purchase military equipment.
+Target sent:
+在谈判开始时，巴西希望特朗普政府将自己提升为主要的非北约成员国，这一重大举措将有助于巴西购买军事装备。
+
+Distance: 17.000000
+entering talks, brazil hoped to see itself elevated to major non nato ally status by the trump administration, a major possibility that would help it purchase military equipment
+在谈判中，巴西希望看到自己被特朗普政府提升为主要的非北约成员国，这是一个帮助它购买军事装备的主要可能性
+Distance: 13.000000
+entering talks, brazil hoped to see itself elevated to major non nato ally status by the trump administration, a major deal that would help it purchase military equipment
+在谈判中，巴西希望看到特朗普政府将自己提升为主要的非北约成员国，这是一项有助于其购买军事装备的重大交易
+Distance: 13.000000
+entering talks, brazil hoped to see itself elevated to major non nato ally status by the trump transition, a major step that would help it purchase military equipment
+在谈判中，巴西希望看到自己在特朗普过渡时期被提升为主要的非北约成员国，这一重要步骤将帮助巴西购买军事装备
+
+ID: 43
+Source sent:
+It was his tariffs on steel and aluminum that caused frustration between Trump and Harley Davidson, the iconic American motorcycle manufacturer based in Wisconsin.
+Target sent:
+正是他对钢铁和铝征收的关税，导致了特朗普和总部位于威斯康星州的标志性美国摩托车制造商哈雷戴维森(Harley Davidson)之间的不满。
+
+Distance: 16.000000
+it was his focus on steel and aluminum that caused frustration between trump and harley davidson, the iconic american motorcycle manufacturer based in wisconsin
+特朗普对钢铁和铝的关注导致了他和总部位于威斯康辛州的标志性美国摩托车制造商哈雷戴维森之间的挫折
+Distance: 16.000000
+it was his concentration on steel and aluminum that caused frustration between trump and harley davidson, the iconic american motorcycle manufacturer based in wisconsin
+特朗普对钢铁和铝的专注导致了他和总部位于威斯康辛州的标志性美国摩托车制造商哈雷戴维森之间的挫折
+Distance: 14.000000
+it was his reliance on steel and aluminum that caused frustration between trump and harley davidson, the iconic american motorcycle manufacturer based in wisconsin
+正是由于特朗普对钢铁和铝的依赖，才导致了他和总部位于威斯康辛州的标志性美国摩托车制造商哈雷戴维森之间的矛盾
+
+ID: 44
+Source sent:
+But the owner of Carrier, United Technologies, said it would still move some production to Mexico.
+Target sent:
+但开利的所有者联合技术公司(United Technologies)表示，仍将把部分生产转移到墨西哥。
+
+Distance: 14.000000
+but the owner of carrier, alliance technologies, said it would still move some production to mexico
+但运营商alliance technologies的所有者表示，仍将把部分生产转移到墨西哥
+Distance: 11.000000
+but the owner of carrier, precision technologies, said it would still move some production to mexico
+但该公司表示，仍将把部分生产转移到墨西哥
+Distance: 10.000000
+but the owner of carrier, united artists, said it would still move some production to mexico
+但carrier的所有者united artists表示，仍将把部分生产转移到墨西哥
+
+ID: 45
+Source sent:
+Draper spent eight Christmases with the Bush family and became very close with them.
+Target sent:
+德雷柏和布什一家度过了8个圣诞节，和他们关系非常亲密。
+
+Distance: 14.000000
+draper spent eight seasons with the bush family and became very close with them
+德雷柏在布什一家住了八季，和他们关系非常亲密
+Distance: 11.000000
+draper spent eight decades with the bush family and became very close with them
+德雷柏在布什家族生活了80年，与他们关系非常密切
+Distance: 10.000000
+draper spent eight years with the bush family and became very close with them
+德雷柏在布什家生活了八年，和他们关系非常亲密
+
+ID: 46
+Source sent:
+Mueller ' s team then handed over that data to the Manhattan federal prosecutors, and the Manhattan prosecutors also sought additional information filtered out of the Mueller searches.
+Target sent:
+穆勒的团队随后将这些数据交给了曼哈顿联邦检察官，曼哈顿检察官还寻求从穆勒的搜索中过滤出来的其他信息。
+
+Distance: 10.000000
+mueller' s team then handed over that data to the manhattan federal prosecutors, and the manhattan fbi also sought additional information filtered out of the mueller searches
+穆勒的团队随后将这些数据交给了曼哈顿联邦检察官，曼哈顿联邦调查局也要求从穆勒的搜索中过滤出更多信息
+Distance: 9.000000
+mueller' s team then handed over that data to the manhattan federal police, and the manhattan prosecutors also sought additional information filtered out of the mueller searches
+穆勒的团队随后将这些数据交给了曼哈顿联邦警察，曼哈顿检察官还要求从穆勒的搜索中过滤出更多信息
+Distance: 8.000000
+mueller' s team then handed over that document to the manhattan federal prosecutors, and the manhattan prosecutors also sought additional information filtered out of the mueller searches
+穆勒的团队随后将这份文件交给了曼哈顿联邦检察官，曼哈顿检察官还要求从穆勒的搜查中过滤出更多信息
+
+ID: 47
+Source sent:
+Draper, a self described kid from South Central Los Angeles whose life was already at a peak, was not sure it was even a possibility.
+Target sent:
+德雷珀，一个自称来自洛杉矶中南部的孩子，他的人生已经处于巅峰，他甚至不确定这是否有可能。
+
+Distance: 15.000000
+draper, a self described kid from south central saint angeles whose life was already at a peak, was not sure it was even a possibility
+德雷柏，一个自称来自中南部圣安琪拉斯的孩子，他的人生已经处于巅峰，他甚至不确定这是否有可能
+Distance: 13.000000
+draper, a self described kid from south central los angeles whose life was already at a time, was not sure it was even a possibility
+德雷珀，一个自称来自洛杉矶中南部的孩子，他的生活已经在一个时期，甚至不确定这是一个可能性
+Distance: 13.000000
+draper, a self described kid from south central los angeles whose life was already at a place, was not sure it was even a possibility
+德雷珀，一个自称来自洛杉矶中南部的孩子，他的生活已经在一个地方，甚至不确定这是一个可能性
+
+ID: 48
+Source sent:
+There actually have been more manufacturing job openings recently than people to fill them, according to data from the Bureau of Labor Statistics.
+Target sent:
+美国劳工统计局(Bureau of Labor Statistics)的数据显示，最近制造业的职位空缺实际上比填补空缺的人数还多。
+
+Distance: 17.000000
+there actually have been more manufacturing job positions recently than people to fill them, according to data from the bureau of labor statistics
+美国劳工统计局(bureau of labor statistics)的数据显示，最近的制造业职位数量实际上超过了填补这些职位的人数
+Distance: 15.000000
+there actually have been more manufacturing space openings recently than people to fill them, according to data from the bureau of labor statistics
+美国劳工统计局(bureau of labor statistics)的数据显示，最近制造业职位空缺的数量实际上超过了填补空缺的人数
+Distance: 15.000000
+there actually have been more manufacturing room openings recently than people to fill them, according to data from the bureau of labor statistics
+美国劳工统计局(bureau of labor statistics)的数据显示，最近制造业职位空缺的数量实际上超过了填补空缺的人数
+
+ID: 49
+Source sent:
+It ' s an amazing story but I always knew there was an end to it.
+Target sent:
+这是一个惊人的故事，但我一直知道它会有个结局。
+
+Distance: 11.000000
+it' s an amazing story but i always knew there was an innocence to it
+这是一个令人惊奇的故事，但我一直知道其中有一种纯真
+Distance: 11.000000
+it' s an amazing story but i always knew there was an attitude to it
+这是一个了不起的故事，但我一直知道人们对它的态度
+Distance: 9.000000
+it' s an amazing story but i always knew there was an excitement to it
+这是一个令人惊叹的故事，但我一直知道其中有一种兴奋
+
+ID: 50
+Source sent:
+Border security and immigration have dominated the department ' s attention and public messaging in recent months.
+Target sent:
+近几个月来，边境安全和移民问题一直是内政部关注的焦点，也是公众关注的焦点。
+
+Distance: 20.000000
+border security and immigration have dominated the reader' s attention and public messaging in recent months
+最近几个月，边境安全和移民问题占据了读者的注意力和公共信息
+Distance: 20.000000
+border security and immigration have dominated the department' s website and public messaging in recent months
+近几个月来，边境安全和移民问题占据了该部门网站和公共信息的大部分
+Distance: 19.000000
+border security and immigration have dominated the magazine' s attention and public messaging in recent months
+近几个月来，边境安全和移民问题占据了该杂志的注意力和公共信息
+
